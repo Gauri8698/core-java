@@ -7,7 +7,7 @@ public class FinalMethod {
 	
 	//final method
 	
-	public final void disp()
+	public void disp()
 	{
 		System.out.println(a);
 	}
